@@ -1,6 +1,6 @@
 ### Olá, Seja bem vindo ao meu perfil🟦
 
- Meu nome é Jaime Souza Borges, sou professor de Química para ao Ensino Médio na Rede Estadual Paulista.
+ Meu nome é  **Jaime Souza Borges**, sou professor de Química para ao Ensino Médio na Rede Estadual Paulista.
 - Estou tentando entender como este site funciona, para auxiliar meus alunos.
 - Para entrar em contato comigo:
   jaime@prof.educacao.sp.gov.br
